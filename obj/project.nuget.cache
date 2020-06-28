@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "Mn64Zqu9WRsklhi+vFDYZQbpG1M0QqkJ6oSVJ3yMRUS8cZ0AIl/JCCzWWrAYxH5Xxg4/E4/GDvn1da6qWRDfDA==",
+  "success": true,
+  "projectFilePath": "/home/douglasham/Documents/botappai/botappai/botappai.csproj",
+  "expectedPackageFiles": [
+    "/home/douglasham/.nuget/packages/restsharp/106.6.10/restsharp.106.6.10.nupkg.sha512"
+  ],
+  "logs": []
+}
